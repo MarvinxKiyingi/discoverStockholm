@@ -7,7 +7,7 @@ This project is for a group assignment
 Clone the repo and install the dependencies before opening index.html:
 
 ```
-git clone
+git clone https://github.com/MarvinxKiyingi/discoverStockholm.git
 ```
 
 ```
